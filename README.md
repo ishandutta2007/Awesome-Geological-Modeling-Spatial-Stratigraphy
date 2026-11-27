@@ -65,7 +65,7 @@ The commercial enterprise tier is **highly concentrated with significant winner-
 
 ## 💻 Open-Source Python & Scientific Libraries
 
-*Sorted descending by GitHub Stars_Count.*
+*Sorted descending by GitHub_Stars_Count.*
 
 | 📦 Repository & Project | ⭐ Popularity (Stars) | 🎯 Primary Domain | 📖 Description & Capabilities |
 | :--- | :---: | :--- | :--- |
